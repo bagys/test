@@ -1,6 +1,7 @@
 {
     "name": "bagys/test",
     "description": "composer",
+    "type":"project",
     "authors": [
         {
             "name": "班布拉",
